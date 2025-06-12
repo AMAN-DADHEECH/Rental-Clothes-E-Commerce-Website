@@ -1,2 +1,12 @@
-# Rental-Clothes-E-Commerce-Website
-The Luxury Dress Rental E-Commerce Platform (LDRF) offers affordable access to premium fashion by allowing users to rent luxury dresses online. Combining style with sustainability, it features real-time inventory, secure payments, and a user-friendly interface to promote conscious and convenient fashion choices.
+# Local Rental Clothe Web
+
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/khabart590-gmailcoms-projects/v0-local-rental-clothes-web)
+
+
+
+
+## Deployment
+
+Your project is live at:
+
+**[https://vercel.com/khabart590-gmailcoms-projects/v0-local-rental-clothes-web](https://vercel.com/khabart590-gmailcoms-projects/v0-local-rental-clothes-web)**
